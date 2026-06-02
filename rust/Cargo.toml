@@ -1,0 +1,6 @@
+[workspace]
+members = ["helloworld", "uniffi-bindgen-swift"]
+resolver = "2"
+
+[workspace.dependencies]
+uniffi = "0.31.1"
